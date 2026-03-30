@@ -22,3 +22,61 @@ While the fields of technology and dance have historically not often intersected
 |-----------------|-----------------|-----------------|-----------------|
 | Luis Zerkowski  | Graph Neural Network  | [Repo Link](https://github.com/humanai-foundation/ChoreoAI/tree/main/ChoreoAI_Duet_ChorAIgraphy_Luis_Zerkowski) | [Blog Post](https://medium.com/@luisvz)
 | Zixuan Wang  | Transformer and VAE  | [Repo Link](https://github.com/humanai-foundation/ChoreoAI/tree/main/ChoreoAI_Zixuan_Wang)  | [Blog Post](https://wang-zixuan.github.io/posts/2024/gsoc_2024)
+
+
+
+
+
+
+## Getting Started
+
+### Prerequisites
+- Python 3.8+
+- PyTorch
+- NumPy, Matplotlib
+
+### Installation
+```bash
+git clone https://github.com/humanai-foundation/ChoreoAI.git
+cd ChoreoAI
+pip install -r requirements.txt
+```
+
+## Contributing
+
+We welcome contributions! Please follow these steps:
+1. Fork this repository
+2. Create a new branch (`git checkout -b feature/your-feature`)
+3. Commit your changes (`git commit -m 'Add your feature'`)
+4. Push to your branch (`git push origin feature/your-feature`)
+5. Open a Pull Request
+
+## GSoC 2026
+
+ChoreoAI is participating in Google Summer of Code 2026 under the 
+[HumanAI Foundation](https://humanai.foundation/).
+Interested students can find project ideas on the 
+[HumanAI GSoC 2026 page](https://humanai.foundation/activities/gsoc2026.html).
+```
+
+4. Scroll down, write commit message:
+```
+Add Getting Started, Contributing, and GSoC sections to README
+```
+5. Select **"Commit directly to the main branch"** → Click **"Commit changes"**
+
+---
+
+### Step 3 — Open a Pull Request
+1. Go back to your forked repo
+2. Click **"Contribute"** → **"Open pull request"**
+3. Title:
+```
+Add Getting Started, Contributing, and GSoC 2026 sections to README
+```
+4. Description:
+```
+Added missing sections to improve documentation:
+- Getting Started with prerequisites and installation steps
+- Contributing guidelines for new contributors
+- GSoC 2026 section linking to HumanAI project ideas
